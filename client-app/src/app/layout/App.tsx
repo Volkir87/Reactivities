@@ -29,7 +29,6 @@ const App: React.FC<RouteComponentProps> = ({ location }) => {
                     </Container>
                 </Fragment>
             )} />
-
         </Fragment>
     );
 }
